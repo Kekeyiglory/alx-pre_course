@@ -1,2 +1,2 @@
 My new readme
-To be up to date
+is be up to date now
